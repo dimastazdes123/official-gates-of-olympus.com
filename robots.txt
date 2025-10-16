@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://official-gates-of-olympus.com/sitemap.xml
